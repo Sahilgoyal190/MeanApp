@@ -1,0 +1,15 @@
+{
+  "name": "iPhone7",
+  "code": "IP7",
+  "vendor": "V2",
+  "sku": "SP124",
+  "price": 9999,
+  "quantity": 2,
+  "addedBy": "Mayank Goyal",
+  "status": "On-Stand",
+  "reviews": [{
+    "rank": 2,
+    "reviewer": "Mayank",
+    "comments": "Really Nice Product"
+  }]
+}
